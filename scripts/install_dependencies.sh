@@ -1,3 +1,3 @@
 #!/bin/bash
-pwd > tmp/test
+pwd > /tmp/test
 pip install -r requirement.txt
