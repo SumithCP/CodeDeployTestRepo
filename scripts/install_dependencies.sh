@@ -1,3 +1,4 @@
 #!/bin/bash
-conda install -c ufechner -c janharms -c mutirri freekitesim
+echo "test"
+#conda install -c ufechner -c janharms -c mutirri freekitesim
 
