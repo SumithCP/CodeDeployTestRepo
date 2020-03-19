@@ -1,4 +1,4 @@
-matplotlib
+matplotlib==2.0.0
 appnope==0.1.0
 backcall==0.1.0
 beautifulsoup4==4.6.3
