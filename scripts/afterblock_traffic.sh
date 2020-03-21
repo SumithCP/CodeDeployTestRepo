@@ -1,3 +1,4 @@
 #!/bin/bash
 rmdir testdcdakfnlaknfdkna
-exit 3
+snfldknnkaflknfslkn
+adflmadssad
