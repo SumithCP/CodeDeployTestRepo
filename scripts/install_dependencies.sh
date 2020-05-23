@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "test"
+echo "test $RANDOM"
 yum install httpd -y
 service httpd start

@@ -7,7 +7,3 @@ hooks:
   BeforeInstall:
     - location: scripts/install_dependencies.sh
       runas: root
-  AfterBlockTraffic:
-    - location: scripts/afterblock_traffic.sh
-      runas: root
-   
