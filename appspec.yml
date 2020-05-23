@@ -3,6 +3,14 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/WordPress
+
+permissions:
+  - object: /var/www/html/WordPress
+    owner: ec2-user
+    group: ec2-user
+    mode: 644
+    type:
+      - file
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies.sh
